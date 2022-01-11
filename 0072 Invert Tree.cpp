@@ -1,14 +1,3 @@
-#include <iostream>
-#include <stack>
-
-class Tree
-{
-public:
-    int val;
-    Tree *left;
-    Tree *right;
-};
-
 Tree *solve(Tree *root)
 {
     stack<Tree *> st;
