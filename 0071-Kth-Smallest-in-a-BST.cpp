@@ -1,3 +1,6 @@
+#include "0000-DataStructures.hpp"
+#include <vector>
+
 void inorder(Tree *n, vector<int> &res)
 {
     if (!n)

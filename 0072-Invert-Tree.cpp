@@ -1,3 +1,6 @@
+#include "0000-DataStructures.hpp"
+#include <stack>
+
 Tree *solve(Tree *root)
 {
     stack<Tree *> st;

@@ -1,3 +1,5 @@
+#include "0000-DataStructures.hpp"
+
 bool solve(Tree *root, int val)
 {
     while (root)

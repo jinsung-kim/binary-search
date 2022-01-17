@@ -1,3 +1,5 @@
+#include "0000-DataStructures.hpp"
+
 int solve(LLNode *node)
 {
     LLNode *slow = node, *fast = node;

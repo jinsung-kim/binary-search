@@ -1,3 +1,5 @@
+#include "0000-DataStructures.hpp"
+
 void dfs(Tree *n, int &res)
 {
     if (!n)

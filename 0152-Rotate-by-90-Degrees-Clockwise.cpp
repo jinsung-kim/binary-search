@@ -1,3 +1,5 @@
+#include <vector>
+
 vector<vector<int>> solve(vector<vector<int>> &matrix)
 {
     size_t si = matrix.size();
