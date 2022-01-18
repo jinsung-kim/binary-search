@@ -1,6 +1,8 @@
 #ifndef DS
 #define DS
 
+using namespace std;
+
 class Tree
 {
 public:
