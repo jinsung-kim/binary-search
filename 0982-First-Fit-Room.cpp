@@ -1,3 +1,5 @@
+#include <vector>
+
 int solve(vector<int> &rooms, int target)
 {
 
